@@ -1,7 +1,4 @@
 # Team Puffins' MakersBnB - Full-Stack Project
-
-<br>
-
 ## Overview
 
 This amazing group project was the final project for the Sotware Engineer Foundation Course with the Makers Bootcamp. Our task was to create a website based on Airbnb with as many features from their website as we could implement. This was also an opportunity to get experience working under Agile methodologies.
@@ -66,7 +63,7 @@ Manage requests page:
 ## Collaborators:
 
 - [@AigulDj](https://github.com/AigulDj)
-- [@LilachD](hhttps://github.com/LilachD)
+- [@LilachD](https://github.com/LilachD)
 - [@kmatheson1](https://github.com/kmatheson1)
 - [@NatalieJClark](https://github.com/NatalieJClark)
 - [@PiotrSurowiec90](https://github.com/PiotrSurowiec90)
